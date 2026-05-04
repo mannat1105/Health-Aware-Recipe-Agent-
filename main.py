@@ -5,8 +5,8 @@ import time
 # ============================================================
 #  API KEYS
 # ============================================================
-GROQ_API_KEY = "Insert key"  
-USDA_API_KEY = "Insert key"   
+GROQ_API_KEY = "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"  
+USDA_API_KEY = "1YoJf8yl79ZPgMrod2lIiCW4pFKuL0JavvG9Wz6u"   
 
 # ============================================================
 #  SHARED STATE : accumulates results across all steps
