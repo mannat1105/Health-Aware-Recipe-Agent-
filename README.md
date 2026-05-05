@@ -152,7 +152,7 @@ USDA_API_KEY = "paste your usda key here"
 ## How to Run
 
 ```bash
-python agent.py
+python main.py
 ```
 
 Wait for this screen:
